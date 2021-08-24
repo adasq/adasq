@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- [adasq.github.io](https://adasq.github.io/)
+- [linkedin.com/in/plocieniak2](https://www.linkedin.com/in/plocieniak2/)
 <!--
 **adasq/adasq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
